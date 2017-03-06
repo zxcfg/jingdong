@@ -1,0 +1,43 @@
+.bar{
+    border-bottom: 1px solid #ddd;
+    background-color: #e3e4e5;
+    height: 30px;
+    line-height: 30px;
+    display: block;
+}
+.bj{
+    width: 258px;
+    float: left;
+    display: block;
+    font-size: 10px;
+    color: darkgray;
+}
+.bjI{
+    float: right;
+}
+.pc1{
+    width: 190px;
+    height: 170px;
+}
+.barR{
+    display: block;
+    font-size: 10px;
+}
+.barR li{
+    margin-left:5px;
+    float:right;
+    display: block;
+}
+.barR li a{
+    color: darkgray;
+
+}
+.dingwei{
+    color: red;
+    font-size:14px;
+    width: 14px;
+    height: 15px;
+}
+.hong{
+    color: red !important;
+}

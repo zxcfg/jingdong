@@ -1,0 +1,12 @@
+.w{
+    width: 1190px;
+    margin:0 auto;
+}
+.barR span{
+    display: block;
+    float: left;
+    margin:11px 5px 0;
+    width: 1px;
+    height: 10px;
+    border:1px solid #cccccc;
+}
